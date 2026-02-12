@@ -529,11 +529,11 @@ export default function Page() {
               <div className="book-contact">
                 <div className="book-pill">
                   <span className="book-dot"></span>
-                  <span>+92 300 123 4567</span>
+                  <span>(415) 969-4133</span>
                 </div>
                 <div className="book-pill">
                   <span className="book-dot"></span>
-                  <span>123 Smile Avenue, City</span>
+                  <span>info@logisol.tech</span>
                 </div>
               </div>
             </div>
@@ -604,9 +604,7 @@ export default function Page() {
               </div>
 
               <p className="location__addr">
-                Jl Mojopahit II No.20, Block MJ, RT.9/RW.3 Moja <br />
-                Malang Raya, South Malang City. <br />
-                Malang 2397, Indonesia
+                 1001 S Main St Kalispell, Montana, USA
               </p>
 
               <div className="location__divider" />
