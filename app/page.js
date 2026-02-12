@@ -707,10 +707,10 @@ export default function Page() {
 
             <div className="dt-footer__col">
               <div className="dt-footer__label">Phone Number</div>
-              <div className="dt-footer__value">(+123) 9230 821</div>
+              <div className="dt-footer__value">((415) 969-4133</div>
 
               <div className="dt-footer__label dt-footer__label--sp">Email</div>
-              <div className="dt-footer__value">Dental.dentix@gmail.co</div>
+              <div className="dt-footer__value">info@logisol.tech</div>
             </div>
 
             <div className="dt-footer__col">
@@ -781,8 +781,7 @@ export default function Page() {
             <div className="dt-footer__info">
               <div className="dt-footer__infoTitle">Location</div>
               <div className="dt-footer__addr">
-                Block MJ, Jl Mojopahit II No.20, RT.9/RW.3 Moja, Malang Raya, South
-                Malang City, Malang 2397, Indonesia
+              1001 S Main St Kalispell, Montana, USA
               </div>
             </div>
           </div>
