@@ -115,11 +115,11 @@ export default function Page() {
               </div>
 
               <div className="hero-right">
-                <div className="hero-topnote">
-                  <div className="hero-topnote-date">July 29, 2023</div>
-                  <div>We’re Open Clinic</div>
-                  <div>8 AM - 11 PM</div>
-                </div>
+                // <div className="hero-topnote">
+                //   <div className="hero-topnote-date">July 29, 2023</div>
+                //   <div>We’re Open Clinic</div>
+                //   <div>8 AM - 11 PM</div>
+                // </div>
 
                 <div className="hero-imageWrap">
                   <img src="/braces.png" alt="Dental braces model" className="hero-image" />
